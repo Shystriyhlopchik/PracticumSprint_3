@@ -1,0 +1,14 @@
+@import url('./__button-link/header__button-link.css');
+
+@import url('./__logo-place/header__logo-place.css');
+
+.header{
+    display: flex;
+    width: 92.5%;
+    max-width: 1184px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0px auto;
+    padding-top: 30px;
+    background-color: #2A2C2F;
+}

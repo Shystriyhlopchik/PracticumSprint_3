@@ -1,0 +1,22 @@
+@import url('./__list-line/intro__list-line.css');
+
+@import url('./__list/intro__list.css');
+
+@import url('./__title/intro__title.css');
+
+@import url('./__span-accent/intro__span-accent.css');
+
+@import url('./__content-row/intro__content-row.css');
+
+.intro{
+    max-width: 985px;
+    width: 92.5%;
+    margin: 80px auto 0px auto;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 375px) {
+    .intro{
+        margin-top: 64px;
+    }
+}

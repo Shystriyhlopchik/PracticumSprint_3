@@ -1,0 +1,14 @@
+@import url('../__time/video__time.css');
+
+@import url('../__name/video__name.css');
+
+@import url('../__autor/video__autor.css');
+
+.video__footer{
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    width: calc(100% - 30px);
+    height: 60%;
+}

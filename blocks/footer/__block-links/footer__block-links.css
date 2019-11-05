@@ -1,0 +1,11 @@
+.footer__block-links{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px;
+}
+
+@media screen and (max-width: 376px) {
+    .footer__block-links{
+        flex-direction: column;
+    }
+}

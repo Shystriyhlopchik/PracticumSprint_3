@@ -1,0 +1,10 @@
+.cover__image{
+    max-width: 1184px;
+    width: 100%;
+    opacity: 0.3;
+    transition: linear 1.5s;
+}
+
+.cover__image:hover{
+    opacity: 0.8;
+}

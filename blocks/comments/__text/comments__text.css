@@ -1,0 +1,14 @@
+.comments__text{
+    margin: 42px 0px 0px 0px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+@media screen and (max-width: 769px) {
+    .comments__text{
+        margin: 16px auto 0px;
+    }
+}

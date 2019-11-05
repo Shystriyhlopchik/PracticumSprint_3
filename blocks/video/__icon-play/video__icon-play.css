@@ -1,0 +1,19 @@
+@keyframes zoom{
+    from{
+        width: 40px;
+        height: 40px;
+    }
+
+    to{
+        width: 50px;
+        height: 50px;
+    }
+}
+
+.video__icon-play{
+    width: 40px;
+}
+
+.video__icon-play:hover{
+    animation: zoom 2s  forwards;
+}

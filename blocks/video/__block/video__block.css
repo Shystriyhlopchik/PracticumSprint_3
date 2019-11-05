@@ -1,0 +1,28 @@
+@import url('../__image/video__image.css');
+
+@import url('../__discription/video__discription.css');
+
+.video__block{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    margin-top: 70px;
+    max-width: 583px;
+    min-width: 288px;
+    width:49%;
+}
+
+@media screen and (max-width: 376px) {
+    .video__block{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 624px) {
+    .video__block{
+        margin-top: 8px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}

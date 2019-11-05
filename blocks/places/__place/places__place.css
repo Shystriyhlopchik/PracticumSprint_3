@@ -1,0 +1,7 @@
+@import url('../../table-header/table-header.css');
+
+@import url('../../tabel-subtitle/tabel-subtitle.css');
+
+.places__place{
+    margin: 0px auto 72px auto;
+}

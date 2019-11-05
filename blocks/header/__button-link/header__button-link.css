@@ -1,0 +1,21 @@
+@import url('../../../fonts/_Inter/Inter.css');
+
+@import url('./_active/header__button-link_active.css');
+
+@import url('./_ident-right/eader__button-link_indent-right.css');
+
+.header__button-link{
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 80%;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 375px) {
+    .header__button-link{
+        font-size: 18px;
+        line-height: 17px;
+    }
+}

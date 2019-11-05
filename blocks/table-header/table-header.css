@@ -1,0 +1,15 @@
+
+@import url('./__link-click/table-header__link-click.css');
+
+@import url('./__link/table-header__link.css');
+
+@import url('./__location/table-header__location.css');
+
+@import url('./__text/table-header__text.css');
+
+.table-header{
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-end;
+    width:100%;
+}

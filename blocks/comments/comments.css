@@ -1,0 +1,20 @@
+@import url('./__autor/comments__autor.css');
+
+@import url('./__container/comments__container.css');
+
+@import url('./__containers-flex/comments__containers-flex.css');
+
+@import url('./__content-subtitle/comments__content-subtitle.css');
+
+@import url('./__content-title/comments__content-title.css');
+
+@import url('./__image/comments__image.css');
+
+@import url('./__text/comments__text.css');
+
+.comments{
+    margin: 102px auto 0px auto;
+    max-width: 1184px;
+    width: 92.5%;
+    color: #FFFFFF;
+}

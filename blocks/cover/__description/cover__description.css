@@ -1,0 +1,16 @@
+.cover__description{
+    display: flex;
+    max-width: 1182px;
+    width: 100%;
+    flex-direction: column;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+@media screen and (max-width: 376px) {
+    .cover__description{
+        bottom: 0;
+        left: 0;
+    }
+}

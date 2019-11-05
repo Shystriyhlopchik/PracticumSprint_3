@@ -1,0 +1,10 @@
+.table-subtitle__image{
+    width: 46.7%;
+    height: 100%;
+}
+
+@media screen and (max-width: 376px) {
+    .table-subtitle__image{
+        width: 100%;
+    }
+}

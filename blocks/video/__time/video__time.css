@@ -1,0 +1,12 @@
+.video__time{
+    margin: 0px;
+    max-width: 322px;
+    width: 100%;
+    font-family: 'Inter', Arial, sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 13px;
+    letter-spacing: 0.3em;
+}
+

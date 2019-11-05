@@ -1,0 +1,25 @@
+.table-header__location{
+    width: 46.7%;
+    margin: 0px;
+    font-family: 'Inter', Arial, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 65px;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 769px) {
+    .table-header__location{
+        font-size: 42px;
+        line-height: 46px;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .table-header__location{
+        width: 92.5%;
+        margin-left: 4.5%;
+    }
+}
+

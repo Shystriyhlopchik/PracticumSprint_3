@@ -1,0 +1,13 @@
+.table-subtitle__block-text{
+    display: flex;
+    flex-direction: column;
+    width: 49%;
+}
+
+@media screen and (max-width: 376px) {
+    .table-subtitle__block-text{
+        width: 92.5%;
+        margin-left: 4.5%;
+        margin-top: 24px;
+    }
+}

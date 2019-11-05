@@ -1,0 +1,14 @@
+@import url('../__icon-play/video__icon-play.css');
+
+@import url('../__footer/video__footer.css');
+
+.video__discription{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    max-height: 391px;
+    height: 85%;
+    width: 95%;
+    margin-left: 6.57%;
+}

@@ -1,0 +1,32 @@
+@import url('../comments/comments.css');
+
+@import url('../cover/cover.css');
+
+@import url('../footer/footer.css');
+
+@import url('../header/blocks__header.css');
+
+@import url('../intro/intro.css');
+
+@import url('../lead/lead.css');
+
+@import url('../photo-grid/photo-grid.css');
+
+@import url('../places/places.css');
+
+@import url('../tabel-subtitle/tabel-subtitle.css');
+
+@import url('../table-header/table-header.css');
+
+@import url('../two-columns/two-columns.css');
+
+@import url('../video/video.css');
+
+.page{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: #2A2C2F;
+    max-width: 1440px;
+    min-width: 320px;
+    margin: 0px auto 0px auto;
+}

@@ -1,0 +1,12 @@
+.video__image{
+    max-width: 583px;
+    width: 100%;
+    border-radius: 6px;
+    background-color: #000000;
+    opacity: 0.5;
+    transition: linear 1.5s;
+}
+
+.video__image:hover{
+    opacity: 1;
+}

@@ -1,0 +1,21 @@
+@import url('./__block-text/table-subtitle__block-text.css');
+
+@import url('./__image/table-subtitle__image.css');
+
+@import url('./__text/table-subtitle__text.css');
+
+@import url('./__text/_margin/_top/table-subtitle_margin_top.css');
+
+.tabel-subtitle{
+    width: 100%;
+    margin-top: 45px;
+    display: flex;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+
+@media screen and (max-width: 376px) {
+    .tabel-subtitle{
+        flex-direction: column;
+    }
+}

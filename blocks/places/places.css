@@ -1,0 +1,13 @@
+@import url('./__place/places__place.css');
+
+.places{
+    margin: 100px auto 0px;
+    max-width: 984px;
+    width: 92.5%;
+}
+
+@media screen and (max-width: 376px) {
+    .places{
+        width: 100%;
+    }
+}
